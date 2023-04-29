@@ -1,0 +1,4 @@
+1.pwd
+2.mkdir
+3.ls
+4.rmdir
