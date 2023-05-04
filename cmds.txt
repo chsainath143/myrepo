@@ -1,4 +1,7 @@
 1.pwd
 2.mkdir
 3.ls
-4.rmdir
+4.rmd
+ir
+5.ls -lrt
+6. ifconfig
