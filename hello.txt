@@ -1,4 +1,6 @@
 Hi hello Everyone
 How r u
 i am fine
+<<<<<<< HEAD
 This is from ubuntu
+This is from Windows
